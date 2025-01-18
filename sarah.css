@@ -117,7 +117,7 @@ img{
     height: 18cm;
     position: fixed;
     top: 100px;
-    background-image: url(imageprojet/desertaccueil.jpg);
+    background-image: url(desertaccueil.jpg);
 
     -webkit-background-size: cover;
     background-size: cover;
@@ -273,9 +273,6 @@ body {
 .textegauche {
     flex: 1;
 }
-
-url(imageprojet/burger-icon.png)
-
 .photosrondes {
     width: 250px;
     height: 250px;
