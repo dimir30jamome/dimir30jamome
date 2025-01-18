@@ -111,7 +111,7 @@ img{
     height: 18cm;
     position: fixed;
     top: 100px;
-    background-image: url(imageprojet/saintaccueil1.jpg);
+    background-image: url(saintaccueil1.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
