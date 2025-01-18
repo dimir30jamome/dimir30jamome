@@ -112,7 +112,7 @@ img{
     height: 18cm;
     position: fixed;
     top: 100px;
-    background-image: url(imageprojet/satutaccueil.webp);
+    background-image: url(satutaccueil.webp);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
