@@ -111,7 +111,7 @@ img{
     height: 18cm;
     position: fixed;
     top: 100px;
-    background-image: url(imageprojet/fondzanzibar.jpg);
+    background-image: url(fondzanzibar.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
